@@ -1,11 +1,10 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+GoCool's+Github" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -20,12 +19,53 @@ or <a href="mailto:tradewithgocool@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gocool97&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gokul's Github Commits">
+<img src="https://github-readme-stats.vercel.app/api?username=gocool97&show_icons=true&theme=radical" alt="GitHub Stats">
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+
+<div>
+<h2>
+    <img src="https://img.icons8.com/emoji/48/000000/laptop-emoji.png" width="30" height="30" alt="Laptop Icon">
+    Tech Stack:
+</h2>
+
+<img alt="Java" src="https://img.shields.io/badge/Java-orange">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-green">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-brightgreen">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-black">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-red">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-blue">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow">
+<img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-gold">
+<img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-orange">
+<img alt="React" src="https://img.shields.io/badge/React-blue">
+<img alt="OJet" src="https://img.shields.io/badge/OJet-darkblue">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-lightblue">
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-deepblue">
+<img alt="Istio" src="https://img.shields.io/badge/Istio-darkblue">
+<img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-red">
+<img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-darkred">
+<img alt="Kafka" src="https://img.shields.io/badge/Kafka-black">
+<img alt="Netflix Eureka" src="https://img.shields.io/badge/Netflix%20Eureka-red">
+<img alt="Oracle WebLogic" src="https://img.shields.io/badge/Oracle%20WebLogic-darkred">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-orange">
+<img alt="SOAP-UI" src="https://img.shields.io/badge/SOAP--UI-lightblue">
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-orange">
+<img alt="SVN" src="https://img.shields.io/badge/SVN-lightgrey">
+<img alt="Git" src="https://img.shields.io/badge/Git-darkred">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-brown">
+<img alt="Helm" src="https://img.shields.io/badge/Helm-blue">
+<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-deepblue">
+<img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-darkblue">
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-blue">
+
+
+
+</div>
+
 
 ---
 
